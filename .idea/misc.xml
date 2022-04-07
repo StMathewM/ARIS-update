@@ -15,7 +15,7 @@
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_add_pets.xml" value="0.17119565217391305" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_announcement.xml" value="0.17119565217391305" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_appointments.xml" value="0.17119565217391305" />
-        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_bite_case_file.xml" value="0.16770833333333332" />
+        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_bite_case_file.xml" value="0.4" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_bite_cases.xml" value="0.17119565217391305" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_cancelled_tab.xml" value="0.17119565217391305" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_clinics.xml" value="0.17119565217391305" />
@@ -23,7 +23,7 @@
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_contact_form.xml" value="0.17119565217391305" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_edit_pet.xml" value="0.16770833333333332" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_health_clinics.xml" value="0.17119565217391305" />
-        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_health_report.xml" value="0.16770833333333332" />
+        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_health_report.xml" value="0.1" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_home.xml" value="0.17119565217391305" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_login_user.xml" value="0.17119565217391305" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_main.xml" value="0.1546875" />
@@ -35,10 +35,14 @@
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_set_appointment.xml" value="0.28125" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_update_profile.xml" value="0.16770833333333332" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/activity_user_profile.xml" value="0.152" />
+        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/bite_layout.xml" value="0.4" />
+        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/bite_recycle.xml" value="0.16621376811594202" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/fragment_item.xml" value="0.16621376811594202" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/fragment_item2.xml" value="0.16621376811594202" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/fragment_item_list.xml" value="0.4" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/layout/fragment_item_list2.xml" value="0.16621376811594202" />
+        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/healt_card.xml" value="0.4" />
+        <entry key="..\:/MOBILEARIS/app/src/main/res/layout/send_health_report.xml" value="0.25" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/menu/main.xml" value="0.25" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/menu/menu_main.xml" value="0.25" />
         <entry key="..\:/MOBILEARIS/app/src/main/res/menu/profile_menu.xml" value="0.2015625" />

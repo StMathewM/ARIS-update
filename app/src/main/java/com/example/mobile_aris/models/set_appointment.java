@@ -401,16 +401,11 @@ public class set_appointment extends AppCompatActivity {
 
         JSONObject jsonitem = new JSONObject();
         try {
-
-
-
                 jsonitem.put("clinicId", clinicId);
                 jsonitem.put("date", date);
                 jsonitem.put("time_slot", time_slot);
                 jsonitem.put("purpose", purpose);
                 jsonitem.put("status", "Pending");
-
-
         }
         catch (JSONException e){
             e.printStackTrace();

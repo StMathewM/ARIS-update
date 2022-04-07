@@ -46,6 +46,7 @@
         <activity
             android:name=".edit_pet"
             android:label="Edit Pet" />
+        <activity android:name=".bites.BiteDetailActivity"/>
         <activity
             android:name=".pet_profile"
             android:label="Pet Profile" />
@@ -75,7 +76,7 @@
             android:name=".user_profile"
             android:label="My Profile" />
         <activity
-            android:name=".bite_cases"
+            android:name=".bites.bite_cases"
             android:label="Bite Cases" />
         <activity
             android:name=".Appointments"
